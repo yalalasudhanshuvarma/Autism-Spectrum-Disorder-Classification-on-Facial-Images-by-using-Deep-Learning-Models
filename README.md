@@ -1,6 +1,19 @@
-# Autism Spectrum Disorder Classification on Facial Images by using Deep Learning Models
+# Autism Spectrum Disorder Classification Using Deep Learning Models
 
 This project employs a deep learning model that uses facial images to classify autism spectrum disorder (ASD). VGG16, VGG19, and AlexNet are the models that were trained and evaluated for subtle features that define facial expressions of ASD.
+
+## Publication Details
+**Published in**: *International Journal of Medical Toxicology & Legal Medicine*  
+**Volume**: 27, No. 2, 2024  
+**Pages**: 194-201  
+**ISSN**: e-ISSN: 0974-4614, p-ISSN: 0972-0448  
+**DOI**: (https://ijmtlm.org)
+
+## Authors
+- **A. Sampath Dakshina Murthy** - Associate Professor, Department of ECE, Vignan's Institute of Information Technology, Duvvada, Visakhapatnam, India.  
+- **Syamala Rao P.** - Assistant Professor, Department of IT, SRKR Engineering College, Bhimavaram, India.  
+- **N. Sirisha** - Department of CSE, MLR Institute of Technology, Hyderabad, Telangana, India.  
+- **V. Rajesh, Y. Sudhanshu Varma, S. Tanweer Ahmed, V. Sri Sravan, Kayam Saikumar** - Department of ECE, Koneru Lakshmaiah Educational Foundation, Guntur & Hyderabad, Telangana, India.
 
 ## Table of Contents
 - [Introduction](#introduction)
