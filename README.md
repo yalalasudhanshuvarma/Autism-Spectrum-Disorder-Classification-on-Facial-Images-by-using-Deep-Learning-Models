@@ -1,2 +1,0 @@
-# Autism-Spectrum-Disorder-
-ASD
